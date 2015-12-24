@@ -9,7 +9,7 @@
     <type name="Magento\Framework\Console\CommandList">
         <arguments>
             <argument name="commands" xsi:type="array">
-                <item name="infitechCommand" xsi:type="object">Infitech\Welcome\Console\Command\CronCommand</item>
+                <item name="infitechCommand" xsi:type="object">Infitech\Helloworld\Console\Command\CronCommand</item>
             </argument>
         </arguments>
     </type>

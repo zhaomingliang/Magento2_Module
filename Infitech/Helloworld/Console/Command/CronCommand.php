@@ -4,7 +4,7 @@
  * See COPYING.txt for license details.
  */
 
-namespace Infitech\Welcome\Console\Command;
+namespace Infitech\Helloworld\Console\Command;
 
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputInterface;

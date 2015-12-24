@@ -1,5 +1,5 @@
 <?php
-namespace Infitech\Welcome\Controller\Index;
+namespace Infitech\Helloworld\Controller\Index;
 
 class Index extends \Magento\Framework\App\Action\Action
 {
