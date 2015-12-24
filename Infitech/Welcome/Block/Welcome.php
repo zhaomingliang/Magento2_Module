@@ -1,5 +1,5 @@
 <?php
-namespace Bluecom\Welcome\Block;
+namespace Infitech\Welcome\Block;
 class Welcome extends \Magento\Framework\View\Element\Template
 {
 }

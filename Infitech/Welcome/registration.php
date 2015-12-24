@@ -6,6 +6,6 @@
 
 \Magento\Framework\Component\ComponentRegistrar::register(
     \Magento\Framework\Component\ComponentRegistrar::MODULE,
-    'Bluecom_Welcome',
+    'Infitech_Welcome',
     __DIR__
 );

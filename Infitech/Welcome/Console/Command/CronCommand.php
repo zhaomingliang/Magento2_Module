@@ -4,7 +4,7 @@
  * See COPYING.txt for license details.
  */
 
-namespace Bluecom\Welcome\Console\Command;
+namespace Infitech\Welcome\Console\Command;
 
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputInterface;
@@ -29,7 +29,7 @@ class CronCommand extends Command
      */
     protected function configure()
     {
-        $this->setName('bluecom:command')
+        $this->setName('infitech:command')
             ->setDescription('test');
         parent::configure();
     }

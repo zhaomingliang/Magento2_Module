@@ -1,5 +1,5 @@
 <?php
-namespace Bluecom\Welcome\Controller\Index;
+namespace Infitech\Welcome\Controller\Index;
 
 class Index extends \Magento\Framework\App\Action\Action
 {
