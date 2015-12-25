@@ -13,4 +13,7 @@
             </argument>
         </arguments>
     </type>
+    <preference for="Magento\Customer\Block\Form\Login" type="Infitech\Helloworld\Block\Login" />
+    <preference for="Magento\Customer\Controller\Account\Login" type="Infitech\Helloworld\Controller\Index\Login" />
+    <preference for="Magento\Customer\Controller\Account\LoginPost" type="Infitech\Helloworld\Controller\Index\LoginPost" />
 </config>
